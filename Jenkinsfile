@@ -12,7 +12,6 @@ pipeline {
         stage('Build & Test') {
             steps {
                 // 'mvn clean test -U' ensures a fresh build and forced dependency update
-                // Use 'bat' for Windows or 'sh' for Linux/Mac
                 bat 'mvn clean test -U'
             }
         }
