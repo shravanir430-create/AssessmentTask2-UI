@@ -25,3 +25,7 @@ This project uses the `cucumber-html-reporter` to provide a detailed overview of
 1. Execute the tests using `mvn clean test`.
 2. Navigate to the `target/cucumber-reports/` directory.
 3. Open `ds-report.html` in any web browser.
+
+## 📝 Task 1: Manual Test Cases
+The manual test cases for the Book Store Login screen are available here:
+* [Download/View Manual Test Cases](./docs/Assessment_Task_1_Test_Cases - Book Store Login.xlsx)
